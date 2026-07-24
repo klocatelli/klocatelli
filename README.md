@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there - I'm Kento 👋
+
+- 🔭 I’m currently working on well crafted small products, such as https://calmaway.app, and seeking collaborators in this space.
+- 🌱 I’m currently learning audio visualizations for music and other sounds
+- ⚡ Fun fact: (some?) color changing octopuses seem to have some perception of light and color through their skin! They can match scenes which are "behind" them and not visible to their eyes.
+- 🖥️ My website: https://kentolocatelli.com
+- 📫 How to reach me: hello@kentolocatelli.com
+- 😄 Pronouns: he/him
+
 
 <!--
 **klocatelli/klocatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
