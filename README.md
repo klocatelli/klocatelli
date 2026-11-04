@@ -3,13 +3,13 @@
 - 🔭 I’m working in the startup world as well as building my own well-crafted small products, such as https://calmaway.app
 - 🖥️ My website: https://kentolocatelli.com
 - 📫 How to reach me: hello@kentolocatelli.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/himtasdf
 
 
 <!--
 **klocatelli/klocatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:asdf
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
