@@ -1,6 +1,6 @@
 ## Hi there - I'm Kento 👋
 
-- 🔭 I’m working in the startup world as well as building my own well-crafted small products, such as https://calmaway.app
+- 🔭 I’m working in the startup world as well as building my own well-crafted small products
 - 🖥️ My website: https://kentolocatelli.com
 - 📫 How to reach me: hello@kentolocatelli.com
 - 😄 Pronouns: he/him
